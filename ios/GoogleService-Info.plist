@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>358576696918-0a21d83lbersiv96gebc27f0lva26f75.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.358576696918-0a21d83lbersiv96gebc27f0lva26f75</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>358576696918-dbpjmm9q68svhgfaejvdro4qas33h4ps.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-0Oz8o6MAgdLAwWYWalMa13jICWLDKGo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>358576696918</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tecware.car25</string>
+	<key>PROJECT_ID</key>
+	<string>car25-2e71e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>car25-2e71e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:358576696918:ios:aabdf88e301cd82ddc55f7</string>
+	<key>DATABASE_URL</key>
+	<string>https://car25-2e71e.firebaseio.com</string>
+</dict>
+</plist>
