@@ -24,7 +24,7 @@
     "react-native-collapsible": "0.13.0",
     "react-native-datepicker": "^1.7.2",
     "react-native-dimension": "^1.0.6",
-    "react-native-document-picker": "2.1.0",
+    "react-native-document-picker": "9.1.1",
     "react-native-draggable-flatlist": "^1.1.9",
     "react-native-elements": "^1.2.4",
     "react-native-fbsdk": "^1.0.4",
